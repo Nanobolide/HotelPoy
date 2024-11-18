@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e024efd7-69ce-41f7-ba42-a91c82df7bef"
+      }
+    },
+    "owner": "geoffroynano"
   }
 }
